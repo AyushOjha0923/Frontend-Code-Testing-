@@ -1,1 +1,30 @@
+# 🎓 Alumni Code Upload Portal
 
+Welcome! 👋  
+This is a public repository for students and alumni to upload their projects or code.
+
+---
+
+## 🧩 How to Upload Your Code
+
+You don’t need to be added as a collaborator.  
+Just follow these 3 easy steps 👇
+
+### 1️⃣ Fork this repository
+- Click the **Fork** button at the top right of this page.
+
+### 2️⃣ Upload your project
+- In your forked repo, click **Add file → Upload files**  
+- Create a folder under `/submissions/` with your name. Example:
+
+
+- Upload your code or project files.
+- Commit changes.
+
+### 3️⃣ Submit a Pull Request
+- Go back to your fork.
+- Click **Contribute → Open pull request**
+- Write a short message like “Added Ayush’s Java project.”
+- Click **Create pull request.**
+
+---
